@@ -5,7 +5,9 @@ Hello im Sebastian Rokowski
 I am begginer at programming and in this repository you can find some pieces of my code.
 In 90% I'm sure that I would be able to improve them. 
 This code was written some time ago and I think that I learned something new that I could use to make this code better.
+
 In javaBasicProgram(whole) directory I gave You 2 whole programs scripts to show how my writing style is when I have enough time to do it.
+
 On the other hand notProudOfMain.cpp is the script when I had very very little amount of time and knowledge how to make it work so I can say that I speedruned that game.
 
 What else
