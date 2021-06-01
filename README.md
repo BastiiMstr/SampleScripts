@@ -1,4 +1,4 @@
-# SampleScripts
+# SampleScripts and About Me
 Samples of my code
 
 Hello im Sebastian Rokowski</br>
